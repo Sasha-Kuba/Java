@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant5Test" tests="21" skipped="0" failures="0" errors="0" timestamp="2023-01-15T23:27:14" hostname="DESKTOP-DEC05D2" time="0.028">
+  <properties/>
+  <testcase name="arraytask[0](5, [I@536f2a7e)" classname="lab0.Variant5Test" time="0.004"/>
+  <testcase name="arraytask[1](8, [I@710636b0)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="arraytask[2](15, [I@2ab4bc72)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="booltask[0](2, 5, false)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="booltask[1](1, -5, true)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="casetask[0](1, 1, 5, 6.0)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="casetask[1](4, 2, 11, 0.18181818181818182)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="casetask[2](3, 2, 11, 22.0)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[0](16, 4)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[1](8, 3)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[2](36, 5)" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="iftask[3](128, 7)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[4](1024, 10)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[0](1, 2, 3, [I@f1da57d)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[1](-1, -2, 1, [I@26abb146)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="iftask[2](-12, -3, -13, [I@38467116)" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="inttask[0](12, 2, 0)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="inttask[1](12, 4, 0)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="inttask[2](12, 5, 2)" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="inttask[3](51, 23, 5)" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="matrixtask[0]([I@2dfaea86, 2, 2, 12, [[I@15888343)" classname="lab0.Variant5Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
